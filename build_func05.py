@@ -9,4 +9,4 @@ def main(n, x):
     Returns:
         int: the value of the expression
     """
-    return
+    return pow(3,6)+pow(6,3)
