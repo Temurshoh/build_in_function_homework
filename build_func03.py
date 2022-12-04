@@ -8,4 +8,4 @@ def main(n):
     Returns:
         float: the value of the expression
     """
-    return pow(((n+1),2)*3)
+    return pow(3*((n+1),2))
